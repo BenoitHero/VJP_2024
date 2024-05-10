@@ -24,13 +24,13 @@ const HAUTEUR_DU_JEU = 700;
 //     appId: "1:735644169756:web:7c80c4445272d1545a51d9"
 //   };
 const firebaseConfig = {
-    apiKey: "AIzaSyBsgdcR5wpytj6TAPbwVKyVTagmgcIe_jQ",
-    authDomain: "vjp-2024.firebaseapp.com",
-    projectId: "vjp-2024",
-    storageBucket: "vjp-2024.appspot.com",
-    messagingSenderId: "291314232601",
-    appId: "1:291314232601:web:f19b3f844918ac6db02988",
-    measurementId: "G-RYG3MD3L1G"
+    apiKey: "AIzaSyDtGhJxaJ2SwSrcYYXUABJi3XKcminRIe4",
+    authDomain: "linear-sight-422907-j7.firebaseapp.com",
+    projectId: "linear-sight-422907-j7",
+    storageBucket: "linear-sight-422907-j7.appspot.com",
+    messagingSenderId: "333038383148",
+    appId: "1:333038383148:web:2ae9454816f56f7641e189",
+    measurementId: "G-N3YS0R04CE"
   };
 
 /*********************/
