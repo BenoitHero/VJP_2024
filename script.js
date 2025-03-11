@@ -2,7 +2,7 @@
  * Etape 1
  * Changer le nom de la collection pour créer un nouveau jeu
  */
-const GAME_COLLECTION_NAME = 'application_VJP_2024';
+const GAME_COLLECTION_NAME = 'application_micro-folie';
 /**
  * Etape 2
  * Editer la taille du jeu
@@ -24,13 +24,13 @@ const HAUTEUR_DU_JEU = 700;
 //     appId: "1:735644169756:web:7c80c4445272d1545a51d9"
 //   };
 const firebaseConfig = {
-    apiKey: "AIzaSyDtGhJxaJ2SwSrcYYXUABJi3XKcminRIe4",
-    authDomain: "linear-sight-422907-j7.firebaseapp.com",
-    projectId: "linear-sight-422907-j7",
-    storageBucket: "linear-sight-422907-j7.appspot.com",
-    messagingSenderId: "333038383148",
-    appId: "1:333038383148:web:2ae9454816f56f7641e189",
-    measurementId: "G-N3YS0R04CE"
+    apiKey: "AIzaSyByUEIRbEMybz8xviKN_XUWEFZI_AvELVw",
+    authDomain: "micro-folie.firebaseapp.com",
+    projectId: "micro-folie",
+    storageBucket: "micro-folie.firebasestorage.app",
+    messagingSenderId: "788334935160",
+    appId: "1:788334935160:web:e796bbc6b276dc8166c18d",
+    measurementId: "G-WKQ38R255L"
   };
 
 /*********************/
